@@ -1,6 +1,6 @@
 ### Clone project
 ```
-1. git clone https://github.com/leaplabs-hugo/sumsub-playground.git`
+1. git clone https://github.com/leaplabs-hugo/sumsub-playground.git
 ```
 ### Go to project folder
 
