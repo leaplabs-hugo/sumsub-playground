@@ -1,21 +1,21 @@
 ### Clone project
 ```
-1. git clone https://github.com/leaplabs-hugo/sumsub-playground.git
+git clone https://github.com/leaplabs-hugo/sumsub-playground.git
 ```
 ### Go to project folder
 
 ```
-2. cd sumsub-playground
+cd sumsub-playground
 ```
 ### Install Deps
 ```
-3. npm i
+npm i
 ```
 ### Run project
 ```
-4. npm run dev
+npm run dev
 ```
 ### Play
 ```
-5. visit http://localhost:5173/
+http://localhost:5173/
 ```
